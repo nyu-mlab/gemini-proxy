@@ -181,7 +181,7 @@ def end_chat(chat_id):
 
 # Example Usage
 if __name__ == "__main__":
-    USER_ID = "user1"
+    USER_ID = "[ENTER_YOUR_USER_ID]"
     MODEL_NAME = "gemini-1.5-flash-002"
     GENERATION_CONFIG = {
         "max_output_tokens": 1000,
